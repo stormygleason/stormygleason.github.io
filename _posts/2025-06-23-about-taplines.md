@@ -1,7 +1,10 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: post
+title: About Taplines
+date: 2025-06-23 16:33 -0400
+categories: [About,Introduction]
+tags: [Intro]
+description: Freshly tapped.
 ---
 Hi, I'm Stormy. I read “My Side of the Mountain” and “The Mysterious Island” as a kid and have always been fascinated with a diy approach to civilization: #camping, #gardening, #hamradio, and #brewing.
 
