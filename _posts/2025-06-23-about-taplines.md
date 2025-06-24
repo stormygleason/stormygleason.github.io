@@ -8,7 +8,7 @@ description: Freshly tapped.
 excerpt_separator: <!--more-->
 pin: true
 ---
-Hi, I'm Stormy. I read “My Side of the Mountain” and “The Mysterious Island” as a kid and have always been fascinated with a diy approach to civilization: #camping, #gardening, #hamradio, and #brewing.
+{% include about-info.html %}
 <!--more-->
 
 After studying chemistry, I’ve spent the last twenty five years in IT, first as a #Web1.0 programmer and #sysop during the 90’s, then in #itsupport and #dataanalyst roles this century. 
