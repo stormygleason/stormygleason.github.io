@@ -12,4 +12,10 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
-gem 'jekyll-compose', group: [:jekyll_plugins]
+group :jekyll_plugins do
+gem 'debug'
+gem 'jekyll-compose'
+gem 'http'
+gem 'mastodon-social'
+gem 'mastodon-api', :git => 'https://github.com/mastodon/mastodon-api.git'
+end

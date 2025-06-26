@@ -45,6 +45,9 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
+mastodon-syndication:
+  server: https://mastodon.sdf.org
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
