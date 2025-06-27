@@ -19,6 +19,6 @@ gem 'jekyll-compose'
 gem 'http',"4.4.1"
 gem "sass-embedded"
 gem "nokogiri"  
-gem 'mastodon-api', :git => 'https://github.com/mastodon/mastodon-api.git'
-gem 'mastodon-social'
+# gem 'mastodon-api', :git => 'https://github.com/mastodon/mastodon-api.git'
+# gem 'mastodon-social'
 end
