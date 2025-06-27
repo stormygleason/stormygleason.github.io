@@ -9,7 +9,4 @@ excerpt_separator: <!--more-->
 ---
 ![Watercolor of a forested lake scene by author.](/assets/img/25-06/IMG_4381.jpeg)
 _This summer I've started to watercolor on camping trips._
-{% mastodon_social %}
-Posted on Mastodon
-{% endmastodon_social %}
 <!--more-->
