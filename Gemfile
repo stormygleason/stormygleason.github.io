@@ -16,7 +16,7 @@ gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 group :jekyll_plugins do
 gem 'debug'
 gem 'jekyll-compose'
-gem 'http'
+gem 'http',"4.4.1"
 gem "sass-embedded"
 gem "nokogiri"  
 gem 'mastodon-api', :git => 'https://github.com/mastodon/mastodon-api.git'
