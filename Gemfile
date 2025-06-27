@@ -13,9 +13,11 @@ end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 group :jekyll_plugins do
-# gem 'debug'
+gem 'debug'
 gem 'jekyll-compose'
-# gem 'http'
-# gem 'mastodon-social'
-# gem 'mastodon-api', :git => 'https://github.com/mastodon/mastodon-api.git'
+gem 'http'
+gem "sass-embedded"
+gem "nokogiri"  
+gem 'mastodon-social'
+gem 'mastodon-api', :git => 'https://github.com/mastodon/mastodon-api.git'
 end
